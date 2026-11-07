@@ -1,0 +1,218 @@
+[
+  {
+    "id": "hat-beret",
+    "category": "hat",
+    "name": "베레모",
+    "price": 40,
+    "desc": "낭만을 살짝 얹는 모자",
+    "file": "/assets/character/hat-beret.svg"
+  },
+  {
+    "id": "hat-crown",
+    "category": "hat",
+    "name": "책벌레 왕관",
+    "price": 80,
+    "desc": "완독의 주인공을 위한 왕관",
+    "file": "/assets/character/hat-crown.svg"
+  },
+  {
+    "id": "hat-scholar",
+    "category": "hat",
+    "name": "학사모",
+    "price": 70,
+    "desc": "배움의 기쁨을 담은 모자",
+    "file": "/assets/character/hat-scholar.svg"
+  },
+  {
+    "id": "hat-tophat",
+    "category": "hat",
+    "name": "톱햇",
+    "price": 75,
+    "desc": "시상식 밤을 위한 정장 모자",
+    "file": "/assets/character/hat-tophat.svg"
+  },
+  {
+    "id": "glasses-round",
+    "category": "glasses",
+    "name": "동그란 안경",
+    "price": 40,
+    "desc": "문장에 오래 머무는 안경",
+    "file": "/assets/character/glasses-round.svg"
+  },
+  {
+    "id": "glasses-shades",
+    "category": "glasses",
+    "name": "선글라스",
+    "price": 65,
+    "desc": "무대 조명도 자신 있게",
+    "file": "/assets/character/glasses-shades.svg"
+  },
+  {
+    "id": "glasses-monocle",
+    "category": "glasses",
+    "name": "모노클",
+    "price": 80,
+    "desc": "한 문장을 깊게 보는 렌즈",
+    "file": "/assets/character/glasses-monocle.svg"
+  },
+  {
+    "id": "effect-aura",
+    "category": "effect",
+    "name": "황금 오라",
+    "price": 120,
+    "desc": "독서의 기운이 은은히 퍼져요",
+    "file": "/assets/character/effect-aura.svg"
+  },
+  {
+    "id": "effect-sparkle",
+    "category": "effect",
+    "name": "반짝임",
+    "price": 100,
+    "desc": "좋아하는 문장처럼 반짝여요",
+    "file": "/assets/character/effect-sparkle.svg"
+  },
+  {
+    "id": "effect-flame",
+    "category": "effect",
+    "name": "열독 불꽃",
+    "price": 150,
+    "desc": "읽고 싶은 마음을 활활",
+    "file": "/assets/character/effect-flame.svg"
+  },
+  {
+    "id": "bg-library",
+    "category": "bg",
+    "name": "서가",
+    "price": 80,
+    "desc": "책등이 가득한 나만의 서재",
+    "file": "/assets/character/bg-library.svg"
+  },
+  {
+    "id": "bg-neon",
+    "category": "bg",
+    "name": "네온 북룸",
+    "price": 110,
+    "desc": "빛나는 밤의 독서 공간",
+    "file": "/assets/character/bg-neon.svg"
+  },
+  {
+    "id": "bg-carpet",
+    "category": "bg",
+    "name": "레드 카펫",
+    "price": 120,
+    "desc": "오늘의 독서 스타를 위한 무대",
+    "file": "/assets/character/bg-carpet.svg"
+  },
+  {
+    "id": "bg-night",
+    "category": "bg",
+    "name": "별빛 밤",
+    "price": 60,
+    "desc": "달빛 아래 조용한 독서",
+    "file": "/assets/character/bg-night.svg"
+  },
+  {
+    "id": "frame-01",
+    "category": "frame",
+    "name": "골드 코너",
+    "price": 80,
+    "desc": "반짝이는 네 모서리 장식",
+    "file": "/assets/minihome/frame-01.svg"
+  },
+  {
+    "id": "frame-02",
+    "category": "frame",
+    "name": "카펫 프레임",
+    "price": 110,
+    "desc": "시상식 분위기의 붉은 테두리",
+    "file": "/assets/minihome/frame-02.svg"
+  },
+  {
+    "id": "frame-03",
+    "category": "frame",
+    "name": "나이트 프레임",
+    "price": 150,
+    "desc": "밤하늘을 닮은 고급 테두리",
+    "file": "/assets/minihome/frame-03.svg"
+  },
+  {
+    "id": "wallpaper-01",
+    "category": "wallpaper",
+    "name": "별빛 종이",
+    "price": 80,
+    "desc": "따스한 종이 위의 작은 별",
+    "file": "/assets/minihome/wallpaper-01.svg"
+  },
+  {
+    "id": "wallpaper-02",
+    "category": "wallpaper",
+    "name": "벨벳 리본",
+    "price": 120,
+    "desc": "붉은 리본이 흐르는 벽지",
+    "file": "/assets/minihome/wallpaper-02.svg"
+  },
+  {
+    "id": "wallpaper-03",
+    "category": "wallpaper",
+    "name": "별자리",
+    "price": 150,
+    "desc": "깊은 밤을 품은 별자리 벽지",
+    "file": "/assets/minihome/wallpaper-03.svg"
+  },
+  {
+    "id": "title-guest",
+    "category": "title",
+    "name": "첫 방문자",
+    "price": 100,
+    "desc": "레드 카펫의 새로운 손님",
+    "file": null
+  },
+  {
+    "id": "title-collector",
+    "category": "title",
+    "name": "문장 수집가",
+    "price": 200,
+    "desc": "마음의 문장을 모으는 사람",
+    "file": null
+  },
+  {
+    "id": "title-nightreader",
+    "category": "title",
+    "name": "밤의 낭독가",
+    "price": 300,
+    "desc": "별빛 아래 책을 읽는 사람",
+    "file": null
+  },
+  {
+    "id": "title-noble",
+    "category": "title",
+    "name": "서재의 귀족",
+    "price": 400,
+    "desc": "품위 있게 책을 사랑하는 사람",
+    "file": null
+  },
+  {
+    "id": "title-observer",
+    "category": "title",
+    "name": "문장 관찰자",
+    "price": 500,
+    "desc": "문장 속 세계를 오래 바라보는 사람",
+    "file": null
+  },
+  {
+    "id": "room-02",
+    "category": "room",
+    "name": "벨벳 시상식 방",
+    "price": 100,
+    "desc": "버건디 커튼이 드리운 무대",
+    "file": "/assets/miniroom/room-02.svg"
+  },
+  {
+    "id": "room-03",
+    "category": "room",
+    "name": "밤의 다락 서재",
+    "price": 120,
+    "desc": "별이 보이는 다락방",
+    "file": "/assets/miniroom/room-03.svg"
+  }
+]

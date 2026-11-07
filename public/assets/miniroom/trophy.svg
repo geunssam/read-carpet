@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" shape-rendering="crispEdges">
+  <!-- 좌측 앞: 실버 트로피 받침 -->
+  <rect x="65" y="275" width="80" height="10" fill="#141012"/>
+  <rect x="70" y="270" width="70" height="10" fill="#A9ADB3"/>
+  <rect x="85" y="250" width="40" height="20" fill="#141012"/>
+  <rect x="90" y="250" width="30" height="15" fill="#BFC2C7"/>
+  <rect x="95" y="240" width="20" height="10" fill="#141012"/>
+  <rect x="100" y="235" width="10" height="10" fill="#A9ADB3"/>
+  <rect x="75" y="245" width="10" height="15" fill="#141012"/><rect x="80" y="245" width="10" height="10" fill="#A9ADB3"/>
+  <rect x="125" y="245" width="10" height="15" fill="#141012"/><rect x="125" y="245" width="5" height="10" fill="#A9ADB3"/>
+  <rect x="95" y="255" width="20" height="5" fill="#F4EEE4"/>
+</svg>

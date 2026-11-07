@@ -1,0 +1,182 @@
+[
+  {
+    "id": "b01",
+    "title": "데미안",
+    "author": "헤르만 헤세",
+    "year": 1919,
+    "taste": "classic",
+    "blurb": "자기 안의 목소리를 찾아가는 성장 소설",
+    "coverColor": "#4E1220"
+  },
+  {
+    "id": "b02",
+    "title": "이방인",
+    "author": "알베르 카뮈",
+    "year": 1942,
+    "taste": "classic",
+    "blurb": "낯선 세계 앞에서 감정을 묻는 소설",
+    "coverColor": "#6E1A2C"
+  },
+  {
+    "id": "b03",
+    "title": "변신",
+    "author": "프란츠 카프카",
+    "year": 1915,
+    "taste": "classic",
+    "blurb": "가족과 노동의 시선을 뒤집는 기묘한 아침",
+    "coverColor": "#141012"
+  },
+  {
+    "id": "b04",
+    "title": "죄와 벌",
+    "author": "표도르 도스토옙스키",
+    "year": 1866,
+    "taste": "classic",
+    "blurb": "한 선택 뒤에 따라오는 양심의 소설",
+    "coverColor": "#4E1220"
+  },
+  {
+    "id": "b05",
+    "title": "전쟁과 평화",
+    "author": "레프 톨스토이",
+    "year": 1869,
+    "taste": "classic",
+    "blurb": "거대한 시대 속 평범한 마음들의 파도",
+    "coverColor": "#A9ADB3"
+  },
+  {
+    "id": "b06",
+    "title": "차라투스트라는 이렇게 말했다",
+    "author": "프리드리히 니체",
+    "year": 1883,
+    "taste": "humanities",
+    "blurb": "스스로의 산을 오르라고 권하는 철학시",
+    "coverColor": "#4E1220"
+  },
+  {
+    "id": "b07",
+    "title": "인간적인, 너무나 인간적인",
+    "author": "프리드리히 니체",
+    "year": 1878,
+    "taste": "humanities",
+    "blurb": "익숙한 믿음의 먼지를 털어내는 사유",
+    "coverColor": "#141012"
+  },
+  {
+    "id": "b08",
+    "title": "향연",
+    "author": "플라톤",
+    "year": -385,
+    "taste": "humanities",
+    "blurb": "사랑을 여러 목소리로 토론하는 고전",
+    "coverColor": "#A9ADB3"
+  },
+  {
+    "id": "b09",
+    "title": "명상록",
+    "author": "마르쿠스 아우렐리우스",
+    "year": 180,
+    "taste": "humanities",
+    "blurb": "흔들리는 마음을 다스리려 쓴 황제의 메모",
+    "coverColor": "#6E1A2C"
+  },
+  {
+    "id": "b10",
+    "title": "월든",
+    "author": "헨리 데이비드 소로",
+    "year": 1854,
+    "taste": "essay",
+    "blurb": "작은 오두막에서 삶의 밀도를 묻는 기록",
+    "coverColor": "#EBE1CF"
+  },
+  {
+    "id": "b11",
+    "title": "하늘과 바람과 별과 시",
+    "author": "윤동주",
+    "year": 1948,
+    "taste": "essay",
+    "blurb": "부끄러움과 사랑을 별빛으로 적은 시집",
+    "coverColor": "#141012"
+  },
+  {
+    "id": "b12",
+    "title": "진달래꽃",
+    "author": "김소월",
+    "year": 1925,
+    "taste": "essay",
+    "blurb": "떠남의 마음을 고운 꽃으로 건네는 시집",
+    "coverColor": "#6E1A2C"
+  },
+  {
+    "id": "b13",
+    "title": "오감도",
+    "author": "이상",
+    "year": 1934,
+    "taste": "essay",
+    "blurb": "불안한 도시를 낯선 리듬으로 그린 시",
+    "coverColor": "#4E1220"
+  },
+  {
+    "id": "b14",
+    "title": "동백꽃",
+    "author": "김유정",
+    "year": 1936,
+    "taste": "classic",
+    "blurb": "사춘기 마음이 산골에서 엇갈리는 이야기",
+    "coverColor": "#A9ADB3"
+  },
+  {
+    "id": "b15",
+    "title": "운수 좋은 날",
+    "author": "현진건",
+    "year": 1924,
+    "taste": "classic",
+    "blurb": "웃음 같은 제목 아래 놓인 하루의 비극",
+    "coverColor": "#141012"
+  },
+  {
+    "id": "b16",
+    "title": "님의 침묵",
+    "author": "한용운",
+    "year": 1926,
+    "taste": "essay",
+    "blurb": "상실을 사랑의 언어로 견디는 시집",
+    "coverColor": "#6E1A2C"
+  },
+  {
+    "id": "b17",
+    "title": "이혼고백서",
+    "author": "나혜석",
+    "year": 1934,
+    "taste": "essay",
+    "blurb": "한 여성이 자기 삶의 주권을 말한 글",
+    "coverColor": "#6E1A2C"
+  },
+  {
+    "id": "b18",
+    "title": "사피엔스",
+    "author": "유발 하라리",
+    "year": 2011,
+    "taste": "humanities",
+    "blurb": "인류가 함께 믿어 온 이야기의 역사",
+    "coverColor": "#A9ADB3"
+  },
+  {
+    "id": "b19",
+    "title": "정의란 무엇인가",
+    "author": "마이클 샌델",
+    "year": 2009,
+    "taste": "humanities",
+    "blurb": "정답보다 질문을 남기는 정의의 수업",
+    "coverColor": "#6E1A2C"
+  },
+  {
+    "id": "b20",
+    "title": "침묵의 봄",
+    "author": "레이첼 카슨",
+    "year": 1962,
+    "taste": "humanities",
+    "blurb": "자연의 침묵이 보내는 경고를 듣는 책",
+    "coverColor": "#EBE1CF"
+  }
+]

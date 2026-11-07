@@ -1,0 +1,9 @@
+# Local Netlify folder
+.netlify
+
+# 설치된 패키지, 빌드 결과, 로컬 미리보기 설정
+node_modules
+dist
+.claude
+.DS_Store
+*.log

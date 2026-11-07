@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" shape-rendering="crispEdges">
+  <rect width="400" height="300" fill="#141012"/>
+  <!-- 밤의 다락: 낮은 사선 천장 느낌의 계단 벽 -->
+  <rect x="0" y="35" width="200" height="125" fill="#312529"/>
+  <rect x="200" y="35" width="200" height="125" fill="#221B1D"/>
+  <rect x="0" y="30" width="35" height="5" fill="#A9ADB3"/><rect x="35" y="25" width="35" height="5" fill="#A9ADB3"/><rect x="70" y="20" width="35" height="5" fill="#A9ADB3"/><rect x="105" y="15" width="35" height="5" fill="#A9ADB3"/>
+  <rect x="260" y="15" width="35" height="5" fill="#A9ADB3"/><rect x="295" y="20" width="35" height="5" fill="#A9ADB3"/><rect x="330" y="25" width="35" height="5" fill="#A9ADB3"/><rect x="365" y="30" width="35" height="5" fill="#A9ADB3"/>
+  <rect x="195" y="35" width="10" height="125" fill="#141012"/>
+  <rect x="0" y="155" width="400" height="10" fill="#A9ADB3"/>
+  <rect x="0" y="165" width="400" height="135" fill="#CFC4B2"/>
+  <!-- 밤 창과 별빛 -->
+  <rect x="55" y="55" width="75" height="60" fill="#141012"/><rect x="60" y="60" width="65" height="50" fill="#4E1220"/><rect x="85" y="60" width="5" height="50" fill="#A9ADB3"/><rect x="60" y="82" width="65" height="5" fill="#A9ADB3"/>
+  <rect x="70" y="70" width="5" height="5" fill="#F4EEE4"/><rect x="105" y="95" width="5" height="5" fill="#F4EEE4"/>
+  <rect x="285" y="55" width="60" height="45" fill="#141012"/><rect x="290" y="60" width="50" height="35" fill="#6E1A2C"/><rect x="305" y="65" width="5" height="5" fill="#BFC2C7"/><rect x="325" y="80" width="5" height="5" fill="#BFC2C7"/>
+  <rect x="0" y="205" width="70" height="5" fill="#E2D8CA"/><rect x="330" y="205" width="70" height="5" fill="#E2D8CA"/>
+  <rect x="0" y="255" width="70" height="5" fill="#E2D8CA"/><rect x="330" y="255" width="70" height="5" fill="#E2D8CA"/>
+</svg>

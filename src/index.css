@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+/* 색 토큰 v2 (로고 기준). 클래스 이름은 예전 그대로, 값만 로고 색으로: carpet-red=버건디, velvet=진한 버건디, trophy-gold=실버, gold-ink=버건디 글자, spotlight=옅은 버건디 */
+:root {
+  --carpet-red: #6E1A2C;
+  --velvet: #4E1220;
+  --trophy-gold: #A9ADB3;
+  --gold-ink: #6E1A2C;
+  --spotlight: #EFD9DA;
+  --surface-100: #F4EEE4;
+  --surface-200: #EBE1CF;
+  --ink: #141012;
+  --ink-muted: #6B5F62;
+  --line: #E2D8CA;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --carpet-red: #B23A52;
+    --velvet: #6E1A2C;
+    --trophy-gold: #C9CCD3;
+    --gold-ink: #E08A9C;
+    --spotlight: #3A1A22;
+    --surface-100: #141012;
+    --surface-200: #221B1D;
+    --ink: #F4EEE4;
+    --ink-muted: #B5ABAD;
+    --line: #3A3033;
+  }
+}
+
+@theme inline {
+  --color-carpet-red: var(--carpet-red);
+  --color-velvet: var(--velvet);
+  --color-trophy-gold: var(--trophy-gold);
+  --color-gold-ink: var(--gold-ink);
+  --color-spotlight: var(--spotlight);
+  --color-surface-100: var(--surface-100);
+  --color-surface-200: var(--surface-200);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-line: var(--line);
+  --font-serif-kr: "Pretendard Variable", "Pretendard", "Apple SD Gothic Neo", system-ui, sans-serif; /* 시트 결정: 화면 글자는 전부 프리텐다드 */
+}
+
+html, body { background: var(--surface-100); color: var(--ink); }
+body { font-family: "Pretendard Variable", "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif; font-size: 16px; line-height: 1.6; word-break: keep-all; overflow-wrap: anywhere; }
+button, input, textarea, select { font: inherit; }
+button { min-height: 44px; min-width: 44px; cursor: pointer; }
+
+/* 동작 줄이기 설정이면 모든 움직임 끄기 */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* 카드 뒤집기 연출 (동작 줄이기 설정이면 위 규칙으로 즉시 전환) */
+@keyframes flip-in { from { transform: rotateY(90deg); opacity: 0.3; } to { transform: rotateY(0); opacity: 1; } }
+.flip-in { animation: flip-in 0.5s ease-out; }
+@keyframes pop { 0% { transform: scale(0.7); opacity: 0; } 70% { transform: scale(1.08); } 100% { transform: scale(1); opacity: 1; } }
+.pop { animation: pop 0.45s ease-out; }
+
+/* 가로로 밀리는 단추 줄의 막대 숨김 */
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+/* 진입 연출: 로고 아래 레드카펫이 왼쪽부터 펼쳐짐 */
+@keyframes carpet-unroll { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.carpet-unroll { transform-origin: left center; animation: carpet-unroll 1.1s cubic-bezier(.2,.8,.2,1) both; }
+@keyframes fade-up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.fade-up { animation: fade-up .6s ease-out .9s both; }

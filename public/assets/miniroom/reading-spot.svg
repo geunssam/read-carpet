@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" shape-rendering="crispEdges">
+  <!-- 우측 앞 바닥: 작은 탁자와 로고식 책 세 권 -->
+  <rect x="275" y="250" width="90" height="10" fill="#141012"/>
+  <rect x="280" y="245" width="80" height="10" fill="#EBE1CF"/>
+  <rect x="285" y="260" width="10" height="30" fill="#141012"/><rect x="345" y="260" width="10" height="30" fill="#141012"/>
+  <rect x="290" y="260" width="5" height="25" fill="#A9ADB3"/><rect x="345" y="260" width="5" height="25" fill="#A9ADB3"/>
+  <!-- 세 권의 낮은 묶음 -->
+  <rect x="295" y="230" width="55" height="15" fill="#141012"/><rect x="300" y="230" width="45" height="10" fill="#6E1A2C"/><rect x="305" y="233" width="10" height="4" fill="#A9ADB3"/>
+  <rect x="300" y="215" width="45" height="15" fill="#141012"/><rect x="305" y="215" width="35" height="10" fill="#EBE1CF"/><rect x="320" y="218" width="10" height="4" fill="#4E1220"/>
+  <rect x="310" y="200" width="35" height="15" fill="#141012"/><rect x="315" y="200" width="25" height="10" fill="#A9ADB3"/><rect x="322" y="203" width="10" height="4" fill="#6E1A2C"/>
+</svg>

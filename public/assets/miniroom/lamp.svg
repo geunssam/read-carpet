@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" shape-rendering="crispEdges">
+  <!-- 우측 뒤: 스탠드, 읽기 탁자와 x축을 분리 -->
+  <rect x="350" y="105" width="10" height="75" fill="#141012"/>
+  <rect x="353" y="110" width="5" height="65" fill="#A9ADB3"/>
+  <rect x="325" y="85" width="60" height="10" fill="#141012"/>
+  <rect x="330" y="75" width="50" height="10" fill="#141012"/>
+  <rect x="335" y="65" width="40" height="10" fill="#141012"/>
+  <rect x="340" y="70" width="30" height="20" fill="#EBE1CF"/>
+  <rect x="345" y="75" width="20" height="10" fill="#F4EEE4"/>
+  <rect x="330" y="180" width="50" height="10" fill="#141012"/>
+  <rect x="335" y="175" width="40" height="10" fill="#A9ADB3"/>
+</svg>

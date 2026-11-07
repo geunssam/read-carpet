@@ -1,0 +1,66 @@
+[
+  {
+    "id": "u1",
+    "nickname": "문장줍는고양이",
+    "title": "새벽의 책갈피",
+    "tier": "beginner",
+    "taste": "essay",
+    "bodyColor": "ink",
+    "equipped": { "hat": "hat-beret", "glasses": null, "effect": null, "bg": "bg-night" },
+    "intro": "잠들기 전 한 문장으로 하루를 접어요.",
+    "favoriteBookIds": ["b11", "b12"],
+    "shelf": [
+      { "sentenceId": "s031", "power": 8 }, { "sentenceId": "s035", "power": 7 },
+      { "sentenceId": "s028", "power": 9 }, { "sentenceId": "s046", "power": 6 },
+      { "sentenceId": "s040", "power": 10 }, { "sentenceId": "s025", "power": 8 }
+    ]
+  },
+  {
+    "id": "u2",
+    "nickname": "철학하는운동화",
+    "title": "골목의 질문가",
+    "tier": "intermediate",
+    "taste": "humanities",
+    "bodyColor": "red",
+    "equipped": { "hat": "hat-scholar", "glasses": "glasses-round", "effect": null, "bg": "bg-library" },
+    "intro": "산책하다 멈춰 선 곳에서 질문을 적습니다.",
+    "favoriteBookIds": ["b06", "b19"],
+    "shelf": [
+      { "sentenceId": "s016", "power": 18 }, { "sentenceId": "s019", "power": 21 },
+      { "sentenceId": "s022", "power": 14 }, { "sentenceId": "s027", "power": 25 },
+      { "sentenceId": "s055", "power": 20 }, { "sentenceId": "s057", "power": 16 }
+    ]
+  },
+  {
+    "id": "u3",
+    "nickname": "단정한파문",
+    "title": "고전의 파도타기",
+    "tier": "advanced",
+    "taste": "classic",
+    "bodyColor": "gold",
+    "equipped": { "hat": "hat-tophat", "glasses": "glasses-shades", "effect": "effect-aura", "bg": "bg-neon" },
+    "intro": "오래된 이야기에서 오늘의 파문을 찾습니다.",
+    "favoriteBookIds": ["b03", "b05"],
+    "shelf": [
+      { "sentenceId": "s007", "power": 32 }, { "sentenceId": "s011", "power": 38 },
+      { "sentenceId": "s013", "power": 27 }, { "sentenceId": "s041", "power": 35 },
+      { "sentenceId": "s044", "power": 41 }, { "sentenceId": "s052", "power": 29 }
+    ]
+  },
+  {
+    "id": "u4",
+    "nickname": "레드카펫사서",
+    "title": "문장의 헤드라이너",
+    "tier": "master",
+    "taste": "essay",
+    "bodyColor": "red",
+    "equipped": { "hat": "hat-crown", "glasses": "glasses-monocle", "effect": "effect-flame", "bg": "bg-carpet" },
+    "intro": "좋은 문장에는 박수를, 낯선 책에는 스포트라이트를.",
+    "favoriteBookIds": ["b17", "b20"],
+    "shelf": [
+      { "sentenceId": "s003", "power": 51 }, { "sentenceId": "s018", "power": 62 },
+      { "sentenceId": "s033", "power": 47 }, { "sentenceId": "s049", "power": 70 },
+      { "sentenceId": "s058", "power": 55 }, { "sentenceId": "s060", "power": 64 }
+    ]
+  }
+]

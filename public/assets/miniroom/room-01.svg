@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" shape-rendering="crispEdges">
+  <rect width="400" height="300" fill="#F4EEE4"/>
+  <!-- 두 벽: 위에서 내려다본 코너 -->
+  <rect x="0" y="0" width="200" height="160" fill="#EBE1CF"/>
+  <rect x="200" y="0" width="200" height="160" fill="#FFF8ED"/>
+  <rect x="195" y="0" width="10" height="160" fill="#E2D8CA"/>
+  <rect x="0" y="155" width="400" height="10" fill="#141012"/>
+  <rect x="0" y="165" width="400" height="135" fill="#DED3C1"/>
+  <!-- 사선 바닥 타일을 계단 픽셀로 표현 -->
+  <rect x="0" y="165" width="400" height="5" fill="#F4EEE4"/>
+  <rect x="0" y="200" width="45" height="5" fill="#E2D8CA"/><rect x="55" y="205" width="45" height="5" fill="#E2D8CA"/><rect x="300" y="205" width="45" height="5" fill="#E2D8CA"/><rect x="355" y="200" width="45" height="5" fill="#E2D8CA"/>
+  <rect x="0" y="245" width="45" height="5" fill="#E2D8CA"/><rect x="55" y="250" width="45" height="5" fill="#E2D8CA"/><rect x="300" y="250" width="45" height="5" fill="#E2D8CA"/><rect x="355" y="245" width="45" height="5" fill="#E2D8CA"/>
+  <!-- 좌벽 액자와 우벽 창: 중앙 바닥은 비움 -->
+  <rect x="25" y="35" width="65" height="50" fill="#141012"/><rect x="30" y="40" width="55" height="40" fill="#F4EEE4"/><rect x="40" y="45" width="10" height="30" fill="#6E1A2C"/><rect x="55" y="50" width="20" height="10" fill="#A9ADB3"/>
+  <rect x="300" y="35" width="70" height="55" fill="#141012"/><rect x="305" y="40" width="60" height="45" fill="#A9ADB3"/><rect x="332" y="40" width="5" height="45" fill="#F4EEE4"/><rect x="305" y="60" width="60" height="5" fill="#F4EEE4"/>
+  <rect x="15" y="115" width="110" height="10" fill="#E2D8CA"/><rect x="275" y="115" width="110" height="10" fill="#E2D8CA"/>
+</svg>

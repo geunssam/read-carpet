@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" shape-rendering="crispEdges">
+  <!-- 하단 중앙: 캐릭터 발 앞에서 이어지는 로고식 말린 카펫 -->
+  <rect x="160" y="250" width="80" height="45" fill="#141012"/>
+  <rect x="165" y="250" width="70" height="45" fill="#6E1A2C"/>
+  <rect x="165" y="250" width="70" height="5" fill="#87273A"/>
+  <rect x="170" y="260" width="10" height="5" fill="#A9ADB3"/><rect x="190" y="260" width="10" height="5" fill="#A9ADB3"/><rect x="210" y="260" width="10" height="5" fill="#A9ADB3"/>
+  <rect x="170" y="280" width="10" height="5" fill="#4E1220"/><rect x="190" y="280" width="10" height="5" fill="#4E1220"/><rect x="210" y="280" width="10" height="5" fill="#4E1220"/>
+  <rect x="155" y="255" width="5" height="35" fill="#6E1A2C"/><rect x="240" y="255" width="5" height="35" fill="#6E1A2C"/>
+  <!-- 말린 오른쪽 끝 -->
+  <rect x="235" y="265" width="15" height="25" fill="#141012"/><rect x="240" y="260" width="10" height="30" fill="#6E1A2C"/><rect x="250" y="260" width="5" height="25" fill="#6E1A2C"/><rect x="245" y="285" width="10" height="5" fill="#4E1220"/>
+</svg>
